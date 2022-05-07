@@ -11,10 +11,10 @@
     <div class="info" style="overflow: hidden">
       <!--info-->
       <div class="info-title" style="margin-top: 5px;">
-        <h2 style="font-size: 14px">关于我们</h2>
+        <h2 style="font-size: 14px;letter-spacing: 2px;font-family: PingFang SC">关于我们</h2>
         <h3 style="font-size: 12px;font-weight: 200">ABOUT US</h3>
       </div>
-      <div class="info-desc" style="letter-spacing:2px;word-spacing:16px;line-height:25px;text-indent:26px; margin-left:-58px;width:140%;font-size:12px;font-weight: 100;display: inline-block;
+      <div class="info-desc" style="letter-spacing:2px;word-spacing:16px;line-height:30px;text-indent:26px; margin-left:-58px;width:140%;font-size:15px;font-weight: 100;display: inline-block;margin-top: -10px;
 	transform: scale(0.7);
 	-webkit-transform: scale(0.7);">
         四川华尔固石材有限公司是一家专业从事石英石技术研发、生产制造、加工与销售的现代化企业，公司占地15000平方米，引进优良传统的石英石生产线，公司注重技术、设备、材料与国际接轨，年产量高达100万平方米的优质石材。
@@ -111,13 +111,13 @@
           <div class="img3-1" style="height: 85px;width: 100%">
           </div>
           <div style="transform: scale(0.6);text-align: center;margin-top: -10px">
-            <p style="width: 72px">人性化的设计</p>
+            <p style="width: 72px">人性化的设计</p>NEWS
             <p>安全性</p>
             <p>健康性</p>
             <p>耐磨性</p>
           </div>
         </div>
-        <div class="news-info-item">
+        <div class="news-info-item" style="margin-left: 3px;margin-right: 3px;">
           <div class="img3-2" style="height: 85px;width: 100%">
           </div>
           <div style="transform: scale(0.6);text-align: center;margin-top: -10px">
@@ -139,65 +139,59 @@
         </div>
       </div>
       <div class="news-footer">
-        百搭的各种设计风格营造时尚大气的空间感，将生活的精致与质感一览无遗地展现出来。
+        <p style="font-size: 12px">百搭的各种设计风格营造时尚大气的空间感，将生活的精致与质感一览无遗地展现出来。</p>
       </div>
     </div>
     <div class="vision">
       <!--1-->
       <div class="vision-item" style="margin-top: 25px">
-        <div class="vision-item-title">
-          <span>
-            >
-          </span>
-          <span>
-            眼界广
-          </span>
+        <div class="vision-item-title" style="display: flex">
+          <i class="el-icon-caret-right" style="margin: 4px 5px 0 0"></i>
+          <div>
+            <p>眼界广</p>
+            <p class="vision-item-desc">高档装修，大势所趋</p>
+          </div>
         </div>
-        <div class="vision-item-desc">高档装修，大势所趋</div>
       </div>
       <!--2-->
       <div class="vision-item">
-        <div class="vision-item-title">
-          <span>
-            >
-          </span>
-          <span>
-            心境纯
-          </span>
+        <div class="vision-item-title" style="display: flex">
+          <i class="el-icon-caret-right" style="margin: 4px 5px 0 0"></i>
+          <div>
+            <p>心境纯</p>
+            <p class="vision-item-desc">大自然的巧匠之作</p>
+          </div>
         </div>
-        <div class="vision-item-desc">大自然的巧匠之作</div>
       </div>
       <!--3-->
       <div class="vision-item">
-        <div class="vision-item-title">
-          <span>
-            >
-          </span>
-          <span>
-            不限边界
-          </span>
+        <div class="vision-item-title" style="display: flex">
+          <i class="el-icon-caret-right" style="margin: 4px 5px 0 0"></i>
+          <div>
+            <p>不限边界</p>
+            <p class="vision-item-desc">大规格，更大作为</p>
+          </div>
         </div>
-        <div class="vision-item-desc">大规格，更大作为</div>
       </div>
     </div>
     <!--高颜值。。-->
     <div class="height">
-      <div style="font-size:14px;line-height:25px;background-color: white;color: black;width: 140px;text-align: center">
+      <div style="font-size:13px;line-height:25px;background-color: white;color: black;width: 140px;text-align: center">
         高颜值 舒适 多功能
       </div>
-      <div style="width: 240px;font-size: 15px;line-height:30px;color:rgb(238,238,238);margin-top: 10px;border-bottom: 1px solid">
+      <div style="width: 260px;font-size: 15px;line-height:30px;color:rgb(238,238,238);margin-top: 10px;border-bottom: 1px solid;letter-spacing: 1px">
         打造硬核的厨房空间，优享幸福生活
       </div>
-      <div style="margin-left: -30px;transform: scale(0.8);font-size: 10px;margin-top: 5px;color: rgb(238,238,238)">
+      <div style="margin-left: -30px;transform: scale(0.8);font-size: 13px;margin-top: 5px;color: rgb(238,238,238);letter-spacing: 1px">
         山河锦绣固然精彩，怎敌一餐一饭来的真实贴心
       </div>
     </div>
     <!--时尚之色-->
-    <div class="fashion" style="padding: 20px">
+    <div class="fashion" style="padding: 20px;">
       <div class="fashion-title" style="margin-top: 5px;border-bottom:black 1px solid">
-        <h5 style="padding-bottom: 6px">时尚之色</h5>
+        <h5 style="padding-bottom: 6px;font-weight: bold">时尚之色</h5>
       </div>
-      <div class="fashion-item" style="float: left">
+      <div class="fashion-item" style="float: left;width: 100%">
         <div class="fashion-item-img">
 
         </div>
@@ -211,8 +205,8 @@
           <p>让心在静谧里回归自然......</p>
         </div>
       </div>
-      <div class="fashion-item" style="margin-top: 150px;text-align: right">
-        <div class="fashion-item-img1" style="height: 130px;float: right">
+      <div class="fashion-item" style="margin-top: 150px;text-align: right;width: 100%">
+        <div class="fashion-item-img1" style="float: right">
 
         </div>
         <div class="fashion-p" style="width:200px;float: right;padding-right: 4px;border-right: 2px solid black">
@@ -221,7 +215,7 @@
         </div>
       </div>
       <div class="fashion-item" style="float: left">
-        <div class="fashion-item-img2" style="width: 175px;height: 110px">
+        <div class="fashion-item-img2" >
 
         </div>
         <div class="fashion-x">
@@ -232,8 +226,8 @@
           <p>的自然纹理，庄重中蕴藏着灵动。</p>
         </div>
       </div>
-      <div class="fashion-item" style="float:right;text-align: right">
-        <div class="fashion-item-img3" style="width: 165px;height: 130px;float: right">
+      <div class="fashion-item" style="float:right;text-align: right;width: 100%">
+        <div class="fashion-item-img3" style="float: right">
 
         </div>
         <div class="fashion-p" style="width:200px;float: right;padding-right: 4px;border-right: 2px solid black">
@@ -367,8 +361,6 @@
     background-color: rgb(125,125,125);
     width: 70px;
     height: 130px;
-    margin-left: 3px;
-    margin-right: 3px;
     font-size: 10px;
   }
   .img3-1{
@@ -390,10 +382,10 @@
     background-size: cover;
   }
   .news-footer{
-    width: 246px;
+    width: 255px;
     margin: 0 auto;
     font-size: 10px;
-    font-weight: 500;
+    font-weight: 300;
     padding: 14px 0;
     border-bottom: black 1.5px solid;
   }
@@ -424,8 +416,8 @@
     margin: 5px 20px;
   }
   .vision-item-desc{
-    font-size: 10px;
-    margin-left: -30px;
+    font-size: 9pt;
+    margin-left: -16%;
     transform: scale(0.7);
   }
   .height{
@@ -447,7 +439,7 @@
   }
   .fashion-item-img{
     margin: 10px 0;
-    width: 155px;
+    width: 60%;
     height: 115px;
     background-image: url("../assets/img/005.jpg");
     background-position: center;
@@ -456,7 +448,7 @@
   }
   .fashion-item-img1{
     margin: 10px 0;
-    width: 155px;
+    width: 50%;
     height: 115px;
     background-image: url("../assets/img/003.jpg");
     background-position: center;
@@ -465,7 +457,7 @@
   }
   .fashion-item-img2{
     margin: 10px 0;
-    width: 155px;
+    width: 60%;
     height: 115px;
     background-image: url("../assets/img/cook.jpg");
     background-position: center;
@@ -474,7 +466,7 @@
   }
   .fashion-item-img3{
     margin: 10px 0;
-    width: 155px;
+    width: 60%;
     height: 115px;
     background-image: url("../assets/img/004.jpg");
     background-position: center;
@@ -485,7 +477,9 @@
     letter-spacing:1px;
     font-size: 12px;
     margin-top: 5px;
+    color: #323232;
     line-height: 20px;
+    font-weight: bold;
   }
   .tp{
     width: 100%;

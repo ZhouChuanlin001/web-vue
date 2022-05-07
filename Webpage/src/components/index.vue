@@ -1,7 +1,7 @@
 <template>
     <el-container class="box" :style="{width:width }">
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-      <el-header style="height: 50px">
+      <el-header style="height: 60px">
         <indexNav></indexNav>
       </el-header>
       <el-main style="padding: 0 0">

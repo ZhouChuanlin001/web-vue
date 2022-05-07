@@ -1,18 +1,18 @@
 <template>
-   <div style="width: 100%;color: white; line-height: 50px;background-color: rgb(5, 5, 5); height: 50px; position: relative">
+   <div style="width: 100%;color: #e8e8e8; line-height: 50px; height: 55px; position: relative;padding: 5px 0" :style="show?'background-color: rgb(5, 5, 5)':'background-color: #131313'">
       <div class="logo" style="display: flex;">
-        <span style="letter-spacing: 2px;margin-left: 40px;font-size: 30px;font-weight: bold;font-family: Cursive;font-style: oblique">宝德鑫</span>
-        <span style="margin-top: 5px;font-size: 14px;font-family: Cursive;font-style: oblique">石英石板材</span>
+        <h5 style="letter-spacing: 2px;margin-left: 40px;font-size:32px;font-family: PingFang SC;font-style: oblique;letter-spacing: 4px">宝德鑫</h5>
+        <span style="margin-top: 5px;margin-left:2px;font-size: 16px;font-family: Hiragino Sans GB;font-style: oblique;letter-spacing: 2px">石英石板材</span>
       </div>
      <div class="btn" style="font-size: 20px;line-height: 50px;text-align: center;float: right">
-       <div v-show="!show" @click="check1" style="width: 100%;height: 100%;color: white">
-        X
+       <div v-show="!show" @click="check1" style="width: 100%;height: 100%;color: #e8e8e8">
+         <i class="el-icon-close"></i>
        </div>
-       <div v-show="show" @click="check2" style="width: 100%;height: 100%;color: white">
-        三
+       <div v-show="show" @click="check2" style="width: 100%;height: 100%;color: #e8e8e8;font-size: 30px ">
+         <i class="el-icon-s-operation"></i>
        </div>
      </div>
-     <div v-show="!show" style="width: 100%;height: 60px;position: absolute;top: 50px;background-color: rgb(29,29,29);z-index: 100" >
+     <div v-show="!show" style="width: 100%;height: 60px;position: absolute;top: 50px;background-color: rgb(0,0,0);z-index: 100" >
         <div style="width: 100%;height: 30px;box-sizing: border-box;color: white;border-top: 1px solid rgb(95,91,91);border-bottom: 1px solid rgb(92,89,89);padding-left: 20px;font-size: 16px;line-height: 30px" @click="handleSelect('2')">
           首页
         </div>

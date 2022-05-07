@@ -45,24 +45,14 @@
               desc:'NOBLE AND ELEGANT'
             },
             {
-              title:'华丽恢弘',
-              url:require('../assets/img/9688856c825fcd62e00be867795952a5.jpg'),
-              desc:'MAGNIFICENT'
+              title:'稳重清爽',
+              url:require('../assets/img/d21f1b594ced57c8511a2ef27e5e8c24.jpg'),
+              desc:'STEADY AND REFRESHING'
             },
             {
-              title:'白润底纹',
-              url:require('../assets/img/9378b8e0e9c57c6e8c9bb59a89d52406.jpg'),
-              desc:'WHITENING SHADING'
-            },
-            {
-              title:'静泊深远',
-              url:require('../assets/img/c6bfb8c606f23bd269af23e7c834ccdf.jpg'),
-              desc:'QUIET AND FAR-REACHING'
-            },
-            {
-              title:'高端大气',
-              url:require('../assets/img/eb747e0406cc39b1afcc0f180a5f67f6.jpg'),
-              desc:'HIGH END ATMOSPHERE'
+              title:'时尚简约',
+              url:require('../assets/img/c53b913454b655a89542d4f8b2f2647d.jpg'),
+              desc:'FASHION SIMPLICITY'
             },
             {
               title:'自然美妙',
@@ -75,15 +65,25 @@
               desc:'CLEAR LUSTER'
             },
             {
-              title:'稳重清爽',
-              url:require('../assets/img/d21f1b594ced57c8511a2ef27e5e8c24.jpg'),
-              desc:'STEADY AND REFRESHING'
+              title:'静泊深远',
+              url:require('../assets/img/c6bfb8c606f23bd269af23e7c834ccdf.jpg'),
+              desc:'QUIET AND FAR-REACHING'
             },
             {
-              title:'时尚简约',
-              url:require('../assets/img/c53b913454b655a89542d4f8b2f2647d.jpg'),
-              desc:'FASHION SIMPLICITY'
+              title:'高端大气',
+              url:require('../assets/img/20220506092528.png'),
+              desc:'HIGH END ATMOSPHERE'
             },
+            {
+              title:'华丽恢弘',
+              url:require('../assets/img/9688856c825fcd62e00be867795952a5.jpg'),
+              desc:'MAGNIFICENT'
+            },
+            {
+              title:'白润底纹',
+              url:require('../assets/img/9378b8e0e9c57c6e8c9bb59a89d52406.jpg'),
+              desc:'WHITENING SHADING'
+            }
           ]
       }
     }
