@@ -2,7 +2,7 @@
   "name": "四川华尔固石业有限公司",
   "version": "1.0.0",
   "description": "",
-  "author": "zhoucl",
+  "author": "zhoucl01",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
